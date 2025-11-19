@@ -1,0 +1,5 @@
+{
+  "name": "SpellSync",
+  "description": "An immersive English spelling game where you listen to AI-generated pronunciation and race against the clock to type the correct spelling.",
+  "requestFramePermissions": []
+}
